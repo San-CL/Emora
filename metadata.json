@@ -1,0 +1,10 @@
+{
+  "name": "Emora",
+  "description": "Emora is an empowerment, child safety, and emergency alert platform for Cameroon featuring real-time missing alerts, SMS warnings, educational hubs, and an opt-in Women Space Module with AI skill mentoring, legal rights resources, and safe community circles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
